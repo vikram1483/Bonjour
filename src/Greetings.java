@@ -5,6 +5,7 @@ public class Greetings {
 	{
 		System.out.println("Hi Nikita");
 		System.out.println("Welcome To Paris");
+		System.out.println("Have a Nice Stay");
 
 	}
 
